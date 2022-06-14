@@ -127,22 +127,21 @@
 *.3 linguist-documentation=false
 *.3 linguist-language=Roff
 # Markdown
-# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
-*.md linguist-detectable=false
+*.md linguist-detectable=true
 *.md linguist-documentation=false
 *.md linguist-language=Markdown
-*.mkd linguist-detectable=false
+*.mkd linguist-detectable=true
 *.mkd linguist-documentation=false
 *.mkd linguist-language=Markdown
-*.mdown linguist-detectable=false
+*.mdown linguist-detectable=true
 *.mdown linguist-documentation=false
-*.mdown linguist-language=Markdown
-*.markdown linguist-detectable=false
+*.mdown linguist-language=Markdown0
+*.markdown linguist-detectable=true
 *.markdown linguist-documentation=false
 *.markdown linguist-language=Markdown
 # End of linguist script
 # File info
 # File type: Gitattributes file (*.gitattributes)
-# File version: 4 (2022, Monday, June 13th at 4:25 pm PST)
-# Line count (including blank lines and compiler line): 149
+# File version: 5 (2022, Monday, June 13th at 5:26 pm PST)
+# Line count (including blank lines and compiler line): 148
 # End of script
